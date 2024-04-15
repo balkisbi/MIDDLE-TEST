@@ -101,19 +101,19 @@ The first input of the function is the name list, and the second input to the fu
 
 *INPUT DATA*
 
-CONTOH 1
+EXAMPLE 1
 
       names = ['Andi', 'Budi', 'Charlie', 'Dilan', 'Echa']
       score = [80, 90, 95, 100, 85]
       print(third_place(names, score))
 
-CONTOH 2
+EXAMPLE 2
 
       names = ['Andi', 'Budi', 'Charlie', 'Dilan', 'Echa']
       score = [80, 80, 80, 100, 90]
       print(third_place(names, score))
 
-CONTOH 3
+EXAMPLE 3
 
       names = ['Andi', 'Budi', 'Charlie', 'Dilan', 'Echa', 'Fanya']
       score = [80, 90, 90, 100, 100, 80]
@@ -137,13 +137,13 @@ Given two coordinates in a list. Your task is to calculate the distance between 
 
 *INPUT DATA*
 
-CONTOH 1
+EXAMPLE 1
 
       point_1 = [5, 5]
       point_2 = [1, 2]
       print(distance(point_1, point_2))
 
-CONTOH 2
+EXAMPLE 2
 
       point_1 = [0, -1]
       point_2 = [-3, 2]
